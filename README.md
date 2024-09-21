@@ -1,1 +1,1 @@
-# Java-Script-Assignment-2
+# java-script-2
